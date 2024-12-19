@@ -1,52 +1,48 @@
-# Hover Card Effect with Next.js and Tailwind CSS
+# 🃏 Hover Card Effect with Next.js and Tailwind CSS
 
-✨ **Dit project toont een hover card effect:**  
-Bij hover vervaagt de kaart en verschijnt tekst.  
-Gemaakt met [Next.js](https://nextjs.org) en [Tailwind CSS](https://tailwindcss.com),  
-en gehost op [Vercel](https://vercel.com).
+✨ **This project demonstrates a hover card effect:**  
+When hovering over a card, it fades, and text appears.  
+Built with [Next.js](https://nextjs.org) and [Tailwind CSS](https://tailwindcss.com),  
+and hosted on [Vercel](https://vercel.com).
 
 ---
 
-## 🚀 Installatie
+## 🚀 Installation
 
-Volg deze stappen om het project lokaal te draaien:
+Follow these steps to run the project locally:
 
-1. **Clone de repository:**
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/jouw-repository/hover-card-effect.git
-   Ga naar de projectmap en installeer de dependencies:
-   ```
+   git clone https://github.com/your-repository/hover-card-effect.git
+Navigate to the project folder and install dependencies:
 
 bash
 Code kopiëren
 cd hover-card-effect
 npm install
-Start de ontwikkelserver:
+Start the development server:
 
 bash
 Code kopiëren
 npm run dev
-Open http://localhost:3000 in je browser om het project te bekijken.
+Open http://localhost:3000 in your browser to see the hover card effect in action.
 
 🌐 Live Demo
-Bekijk de live versie van dit project op Vercel:
+Check out the live version of this project on Vercel:
 https://hover-cards.vercel.app/
 
+📝 License
+This project is open source and available under the MIT License.
 
-📝 Licentie
-Dit project is open source en beschikbaar onder de MIT Licentie.
+✨ Enjoy using this project! ✨
 
-✨ Veel plezier met het gebruik van dit project! ✨
-
-markdown
+vbnet
 Code kopiëren
 
-### Toelichting:
+### Adjustments:
+- The content is translated into clear and concise English.
+- The structure mirrors the Dutch version with no additional explanations.
+- The live demo and repository placeholders are updated for easy customization.  
 
-- **Kopjes met markdown (#, ##, enz.)**: Zorgen voor duidelijke structuur.
-- **Emoji's**: Maken het speelser en aantrekkelijker.
-- **Codeblokken**: Voor een nette weergave van opdrachten.
-- **Live Demo-link**: In het oog springend.
-- **Kort en krachtig**: Onnodige informatie is verwijderd.
-
+Let me know if there’s anything else you’d like to adjust! 😊
